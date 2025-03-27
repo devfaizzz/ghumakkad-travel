@@ -10,20 +10,19 @@ GHUMAKKAD is a responsible tourism platform that promotes **sustainable travel**
 - **Formspree Integration**: Handles **Contact Us** and **Booking** forms seamlessly.
 
 ## 🚀 Live Demo
-🔗 [Live Website](https://devfaizzz.github.io/ghumakkad-travel/) *(Replace with actual link)*
+🔗 [Live Website](https://devfaizzz.github.io/ghumakkad-travel/)
 
 ## 📂 Repository
-🔗 [GitHub Repo](#) *(Replace with actual repo link)*
+🔗 [GitHub Repo](https://github.com/devfaizzz/ghumakkad-travel)
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: Formspree (latest, less complex web3 form)
 - **APIs**: Gemini AI API, Formspree
-- **Styling**: Tailwind CSS
+- **Styling**: Vanilla CSS, Bootstrap
 
 ## 📩 Contact
-For queries or collaborations, feel free to [contact us](#)!
+For queries or collaborations, feel free to [contact us](faizk12312.fk@gmail.com)!
 
 ---
 
